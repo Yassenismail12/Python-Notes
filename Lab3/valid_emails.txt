@@ -1,0 +1,8 @@
+VALID EMAIL ADDRESSES
+
+john.doe@example.com
+sarah_smith@company.org
+mike.wilson@subdomain.example.com
+emma.jones123@test-server.co.uk
+contact@example.com
+Total Unique Emails: 5

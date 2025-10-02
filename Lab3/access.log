@@ -1,0 +1,10 @@
+2025-10-02 10:15:32 User john.doe@example.com accessed page /home
+2025-10-02 10:16:45 Invalid user admin@@ tried to login
+2025-10-02 10:18:12 User sarah_smith@company.org successfully authenticated
+2025-10-02 10:20:33 Failed login from user@invalid
+2025-10-02 10:22:54 User mike.wilson@subdomain.example.com downloaded file report.pdf
+2025-10-02 10:25:17 User notanemail accessed resource /api/data
+2025-10-02 10:27:42 User emma.jones123@test-server.co.uk updated profile
+2025-10-02 10:30:05 Malformed request from user@@domain.com
+2025-10-02 10:32:28 User contact@example.com sent message
+2025-10-02 10:35:51 User john.doe@example.com logged out
